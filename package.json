@@ -1,0 +1,17 @@
+{
+  "name": "03-bases-node",
+  "version": "1.0.0",
+  "description": "Esta es aun aplicacion del linea de comandos ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonard Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
